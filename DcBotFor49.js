@@ -3,7 +3,7 @@ const axios = require("axios");
 
 const bot = new Discord.Client();
 
-const token= "Nzg2MTc0NDQ1MzQ5MTA5ODAx.X9CkAg.YIvvImCmQnB0r9JIPg-65ML1XvM";
+const token= "your bot token";
 
 const prefix="^";
 
